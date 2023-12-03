@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Solve {
+public class AS_PER_YOUR_CLASS_NAME {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         int a = input.nextInt();
